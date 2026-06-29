@@ -10,5 +10,4 @@
 
 Мы запускаем регистрацию на бетатестирование. Пожалуйста, напишите свои контакты на адрес [NeuroStartUp@nsu.io](mailto:NeuroStartUp@nsu.io).
 
-Denis local change
-DENIS LOCAL VERSION
+REMOTE CHANGE FROM COLLEAGUE
